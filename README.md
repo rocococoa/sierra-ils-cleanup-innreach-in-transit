@@ -13,6 +13,9 @@
 
 <img width="975" height="690" alt="Link+ in Transit Too Long Email" src="https://github.com/user-attachments/assets/45847498-520e-41d1-b124-956fc253bb3e" />
 
+**Attached Excel Report:**
+
+<img width="1075" height="441" alt="Link-In-Transit" src="https://github.com/user-attachments/assets/9cf71e10-164b-4fee-afd2-193d2694e67b" />
 
 ## Data Pipeline Architecture
 This repository features an automated data pipeline that generates, formats, and distributes Excel reports via email. The system integrates Windows Task Scheduler, a Batch script, SQL, and Python to handle the end-to-end workflow without manual intervention. The automated process is fully productionized within a Windows environment.
