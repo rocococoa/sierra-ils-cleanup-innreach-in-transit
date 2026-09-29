@@ -14,6 +14,7 @@
 <img width="975" height="690" alt="Link+ in Transit Too Long Email" src="https://github.com/user-attachments/assets/45847498-520e-41d1-b124-956fc253bb3e" />
 
 **Attached Excel Report:**
+- The clean-up report provides the essential details staff need to search for the identified items stalled in the Link+ return workflow, clearing any backlog and correcting the ILS inventory.
 
 <img width="1075" height="441" alt="Link-In-Transit" src="https://github.com/user-attachments/assets/9cf71e10-164b-4fee-afd2-193d2694e67b" />
 
